@@ -1,0 +1,16 @@
+{
+  "name": "gensupply",
+  "private": true,
+  "type": "module",
+  "description": "GenSupply device agent and operator scripts (genlayer-js).",
+  "scripts": {
+    "test:agent": "node --test agent/test/*.test.mjs",
+    "agent": "node agent/run.mjs",
+    "deploy": "node agent/deploy.mjs",
+    "setup": "node agent/setup.mjs"
+  },
+  "dependencies": {
+    "ethers": "6.17.0",
+    "genlayer-js": "1.1.8"
+  }
+}

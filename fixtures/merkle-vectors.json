@@ -1,0 +1,395 @@
+{
+  "device": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b",
+  "cases": [
+    {
+      "name": "1 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "49f8270283c79de931f17b5e9d5cf5ce1191293999fefb2728def8ce4f075588"
+    },
+    {
+      "name": "2 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "2a3d51047f20453469e77a7ebb42f2feea7023b18326dfc525ec8b6792a73e00"
+    },
+    {
+      "name": "3 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": 39,
+          "lat": 5190022,
+          "lon": 446986,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "d5f4ebc3299268444c52cd45fd2cd7dc49a5e833031fc980133ab0268da841d7"
+    },
+    {
+      "name": "4 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": 39,
+          "lat": 5190022,
+          "lon": 446986,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225780,
+          "c": 40,
+          "lat": 5190033,
+          "lon": 446979,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "be94f5855ae31009f78c1f28d9b961f82477d2591128ef5fe43765675aa7e125"
+    },
+    {
+      "name": "5 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": 39,
+          "lat": 5190022,
+          "lon": 446986,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225780,
+          "c": 40,
+          "lat": 5190033,
+          "lon": 446979,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225840,
+          "c": 41,
+          "lat": 5190044,
+          "lon": 446972,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "bca5783828db0e543aa5d1e468efb2dc784ece49061108b9a3d490b6d2118db9"
+    },
+    {
+      "name": "7 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": 39,
+          "lat": 5190022,
+          "lon": 446986,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225780,
+          "c": 40,
+          "lat": 5190033,
+          "lon": 446979,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225840,
+          "c": 41,
+          "lat": 5190044,
+          "lon": 446972,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225900,
+          "c": 42,
+          "lat": 5190055,
+          "lon": 446965,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225960,
+          "c": 43,
+          "lat": 5190066,
+          "lon": 446958,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "1138abca09176a34c52caa1e2d09a36f543f2e3e445ddfa4c1392f8ecab1c857"
+    },
+    {
+      "name": "8 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": 39,
+          "lat": 5190022,
+          "lon": 446986,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225780,
+          "c": 40,
+          "lat": 5190033,
+          "lon": 446979,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225840,
+          "c": 41,
+          "lat": 5190044,
+          "lon": 446972,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225900,
+          "c": 42,
+          "lat": 5190055,
+          "lon": 446965,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225960,
+          "c": 43,
+          "lat": 5190066,
+          "lon": 446958,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226020,
+          "c": 37,
+          "lat": 5190077,
+          "lon": 446951,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "d9edc32f60aef74caa56136896558410772586f8ecbf43a08e0f07a799aaab07"
+    },
+    {
+      "name": "13 readings",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": 38,
+          "lat": 5190011,
+          "lon": 446993,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": 39,
+          "lat": 5190022,
+          "lon": 446986,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225780,
+          "c": 40,
+          "lat": 5190033,
+          "lon": 446979,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225840,
+          "c": 41,
+          "lat": 5190044,
+          "lon": 446972,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225900,
+          "c": 42,
+          "lat": 5190055,
+          "lon": 446965,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225960,
+          "c": 43,
+          "lat": 5190066,
+          "lon": 446958,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226020,
+          "c": 37,
+          "lat": 5190077,
+          "lon": 446951,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226080,
+          "c": 38,
+          "lat": 5190088,
+          "lon": 446944,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226140,
+          "c": 39,
+          "lat": 5190099,
+          "lon": 446937,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226200,
+          "c": 40,
+          "lat": 5190110,
+          "lon": 446930,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226260,
+          "c": 41,
+          "lat": 5190121,
+          "lon": 446923,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767226320,
+          "c": 42,
+          "lat": 5190132,
+          "lon": 446916,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "6f213cb66a24b2b31e7571dfe90454e8390cd384070f1e9780b729677afad109"
+    },
+    {
+      "name": "negative temps and coordinates",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": -188,
+          "lat": -3386000,
+          "lon": -7050000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225660,
+          "c": -187,
+          "lat": -3385989,
+          "lon": -7050007,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        },
+        {
+          "t": 1767225720,
+          "c": -186,
+          "lat": -3385978,
+          "lon": -7050014,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "1c7389685dc7348b346f0fb0ad16c64d4b2ca76dbe02c555eae071fbc2f50b84"
+    },
+    {
+      "name": "leaf canonical bytes",
+      "readings": [
+        {
+          "t": 1767225600,
+          "c": 37,
+          "lat": 5190000,
+          "lon": 447000,
+          "d": "0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b"
+        }
+      ],
+      "root": "49f8270283c79de931f17b5e9d5cf5ce1191293999fefb2728def8ce4f075588",
+      "canonical": "{\"c\":37,\"d\":\"0x9a3c0d5e7b1f24a86c3e5d7f9b1a2c4e6d8f0a1b\",\"lat\":5190000,\"lon\":447000,\"t\":1767225600}"
+    }
+  ]
+}

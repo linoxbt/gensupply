@@ -1,0 +1,35 @@
+{
+  "name": "gensupply-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reown/appkit": "^1.8.23",
+    "@reown/appkit-adapter-wagmi": "^1.8.23",
+    "@tanstack/react-query": "^5.101.4",
+    "@wagmi/core": "^3.6.4",
+    "genlayer-js": "^1.1.8",
+    "next": "16.3.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "viem": "^2.55.19",
+    "wagmi": "^3.7.6"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.5.26",
+    "tailwindcss": "3.4.6",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "axios": "^1.19.0"
+  }
+}

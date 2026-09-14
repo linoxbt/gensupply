@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.env.local
+agent/.env
+agent/state/
+artifacts/
+frontend/.next/
+frontend/out/
+*.log
