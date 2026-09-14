@@ -24,6 +24,14 @@ jobs:
         run: |
           python fixtures/make_merkle_vectors.py
           git diff --exit-code fixtures/merkle-vectors.json
+      # gltest's direct mode fetches `genvm-universal.tar.xz` from the latest GenVM
+      # release, but upstream renamed that asset to `genvm-runners-all.tar.xz`
+      # (byte-identical), so the download 404s. Seed gltest's cache with it.
+      - name: Seed the GenVM runner cache
+        run: |
+          mkdir -p ~/.cache/gltest-direct
+          curl -fsSL -o ~/.cache/gltest-direct/genvm-universal-v0.3.0-rc7.tar.xz \
+            https://github.com/genlayerlabs/genvm/releases/download/v0.3.0-rc7/genvm-runners-all.tar.xz
       - name: Direct-mode (real GenVM SDK) and in-process suites
         run: python -m pytest -q
 
