@@ -10,6 +10,7 @@ GenLayer consensus. No adjuster, no oracle operator, no resolver key.
 
 - **Contract (Studio Network):** `0x349892c5FF0582Bc63daBe61eac6d7bfBC267aA8`
 - **Design:** [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
+- **Demo video:** [`assets/gensupply-demo.mp4`](assets/gensupply-demo.mp4) (22 seconds, with sound)
 
 ## What is decided how
 
